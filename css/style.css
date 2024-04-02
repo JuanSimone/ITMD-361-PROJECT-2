@@ -29,7 +29,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #007bff;
+    color: crimson;
 }
 
 h1, h2 {
@@ -37,7 +37,7 @@ h1, h2 {
 }
 
 h1 {
-    color: #007bff;
+    color: crimson;
     margin-bottom: 1.25rem;
 }
 
