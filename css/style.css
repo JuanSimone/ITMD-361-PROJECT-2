@@ -96,13 +96,13 @@ section li {
 .intro-text {
     font-weight: bold;
     margin-bottom: 1.5rem;
-    font-size: 1.1em;
+    font-size: 5em;
     color: #555;
 }
 
 .img-horizontal {
     width: 100%;
-    max-width: 600px;
+    max-width: 400px;
     height: auto;
     display: block;
     margin: auto;
@@ -110,7 +110,7 @@ section li {
 
 .img-vertical {
     height: auto;
-    max-height: 500px;
+    max-height: 300px;
     width: auto;
     display: block;
     margin: auto;
